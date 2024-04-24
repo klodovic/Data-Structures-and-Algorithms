@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/_3_InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/_3_InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/_2_SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/_2_SelectionSort/SelectionSort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SortAlgorithms.iml" filepath="$PROJECT_DIR$/SortAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/_4_ShellSort/_4_ShellSort.iml" filepath="$PROJECT_DIR$/_4_ShellSort/_4_ShellSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/_5_Recursion/_5_Recursion.iml" filepath="$PROJECT_DIR$/_5_Recursion/_5_Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/_6_MergeSort/_6_MergeSort.iml" filepath="$PROJECT_DIR$/_6_MergeSort/_6_MergeSort.iml" />

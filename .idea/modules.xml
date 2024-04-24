@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data-Structures-and-Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data-Structures-and-Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_1_BubbleSort/_1_BubbleSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_1_BubbleSort/_1_BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_2_SelectionSort/_2_SelectionSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_2_SelectionSort/_2_SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_3_InsertionSort/_3_InsertionSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_3_InsertionSort/_3_InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_4_ShellSort/_4_ShellSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_4_ShellSort/_4_ShellSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_5_Recursion/_5_Recursion.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_5_Recursion/_5_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_6_MergeSort/_6_MergeSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_6_MergeSort/_6_MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_7_QuickSort/_7_QuickSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_7_QuickSort/_7_QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_8_CountingSort/_8_CountingSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_8_CountingSort/_8_CountingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_9_RadixSort/_9_RadixSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_9_RadixSort/_9_RadixSort.iml" />
+    </modules>
+  </component>
+</project>
