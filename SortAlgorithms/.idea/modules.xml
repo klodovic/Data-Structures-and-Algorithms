@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_3_InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/_3_InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/_2_SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlgorithms.iml" filepath="$PROJECT_DIR$/SortAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_ShellSort/_4_ShellSort.iml" filepath="$PROJECT_DIR$/_4_ShellSort/_4_ShellSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_5_Recursion/_5_Recursion.iml" filepath="$PROJECT_DIR$/_5_Recursion/_5_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_6_MergeSort/_6_MergeSort.iml" filepath="$PROJECT_DIR$/_6_MergeSort/_6_MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_7_QuickSort/_7_QuickSort.iml" filepath="$PROJECT_DIR$/_7_QuickSort/_7_QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_8_CountingSort/_8_CountingSort.iml" filepath="$PROJECT_DIR$/_8_CountingSort/_8_CountingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_9_RadixSort/_9_RadixSort.iml" filepath="$PROJECT_DIR$/_9_RadixSort/_9_RadixSort.iml" />
+    </modules>
+  </component>
+</project>
