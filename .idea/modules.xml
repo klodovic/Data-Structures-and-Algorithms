@@ -5,12 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/2-Lists/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/2-Lists/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Data-Structures-and-Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data-Structures-and-Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-Stacks/_1_Array/_1_Array.iml" filepath="$PROJECT_DIR$/3-Stacks/_1_Array/_1_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_1_ArrayList/_1_ArrayList.iml" filepath="$PROJECT_DIR$/2-Lists/_1_ArrayList/_1_ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_1_BubbleSort/_1_BubbleSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_1_BubbleSort/_1_BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_2_SelectionSort/_2_SelectionSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_2_SelectionSort/_2_SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_2_SingleLinkedList/_2_SingleLinkedList.iml" filepath="$PROJECT_DIR$/2-Lists/_2_SingleLinkedList/_2_SingleLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_3_DoublyLinkedList/_3_DoublyLinkedList.iml" filepath="$PROJECT_DIR$/2-Lists/_3_DoublyLinkedList/_3_DoublyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_3_InsertionSort/_3_InsertionSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_3_InsertionSort/_3_InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-Stacks/_3_LinkedList/_3_LinkedList.iml" filepath="$PROJECT_DIR$/3-Stacks/_3_LinkedList/_3_LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_4_JdkLinkedList/_4_JdkLinkedList.iml" filepath="$PROJECT_DIR$/2-Lists/_4_JdkLinkedList/_4_JdkLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_4_ShellSort/_4_ShellSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_4_ShellSort/_4_ShellSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_5_Recursion/_5_Recursion.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_5_Recursion/_5_Recursion.iml" />
