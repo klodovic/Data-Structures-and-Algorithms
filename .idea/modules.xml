@@ -9,12 +9,17 @@
       <module fileurl="file://$PROJECT_DIR$/4-Queues/_1_ArrayImplementation/_1_ArrayImplementation.iml" filepath="$PROJECT_DIR$/4-Queues/_1_ArrayImplementation/_1_ArrayImplementation.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_1_ArrayList/_1_ArrayList.iml" filepath="$PROJECT_DIR$/2-Lists/_1_ArrayList/_1_ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_1_BubbleSort/_1_BubbleSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_1_BubbleSort/_1_BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-HashTables/_1_SimpleHashTable/_1_SimpleHashTable.iml" filepath="$PROJECT_DIR$/5-HashTables/_1_SimpleHashTable/_1_SimpleHashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-Queues/_2_CircularQueue/_2_CircularQueue.iml" filepath="$PROJECT_DIR$/4-Queues/_2_CircularQueue/_2_CircularQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-HashTable/_2_HashTableChaining/_2_HashTableChaining.iml" filepath="$PROJECT_DIR$/5-HashTable/_2_HashTableChaining/_2_HashTableChaining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-HashTables/_2_HashtableChaining/_2_HashtableChaining.iml" filepath="$PROJECT_DIR$/5-HashTables/_2_HashtableChaining/_2_HashtableChaining.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_2_SelectionSort/_2_SelectionSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_2_SelectionSort/_2_SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_2_SingleLinkedList/_2_SingleLinkedList.iml" filepath="$PROJECT_DIR$/2-Lists/_2_SingleLinkedList/_2_SingleLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_3_DoublyLinkedList/_3_DoublyLinkedList.iml" filepath="$PROJECT_DIR$/2-Lists/_3_DoublyLinkedList/_3_DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-HashTables/_3_HashTableJDK/_3_HashTableJDK.iml" filepath="$PROJECT_DIR$/5-HashTables/_3_HashTableJDK/_3_HashTableJDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_3_InsertionSort/_3_InsertionSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_3_InsertionSort/_3_InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-Stacks/_3_LinkedList/_3_LinkedList.iml" filepath="$PROJECT_DIR$/3-Stacks/_3_LinkedList/_3_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-HashTables/_4_BucketSort/_4_BucketSort.iml" filepath="$PROJECT_DIR$/5-HashTables/_4_BucketSort/_4_BucketSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_4_JdkLinkedList/_4_JdkLinkedList.iml" filepath="$PROJECT_DIR$/2-Lists/_4_JdkLinkedList/_4_JdkLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_4_ShellSort/_4_ShellSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_4_ShellSort/_4_ShellSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_5_Recursion/_5_Recursion.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_5_Recursion/_5_Recursion.iml" />
