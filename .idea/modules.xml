@@ -12,24 +12,31 @@
       <module fileurl="file://$PROJECT_DIR$/7-Trees/_1_BinarySearchTree/_1_BinarySearchTree.iml" filepath="$PROJECT_DIR$/7-Trees/_1_BinarySearchTree/_1_BinarySearchTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_1_BubbleSort/_1_BubbleSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_1_BubbleSort/_1_BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/6-SearchAlgorithms/_1_LinearSearch/_1_LinearSearch.iml" filepath="$PROJECT_DIR$/6-SearchAlgorithms/_1_LinearSearch/_1_LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Challenges/_1_MissingNumberInAnArray/_1_MissingNumberInAnArray.iml" filepath="$PROJECT_DIR$/8-Challenges/_1_MissingNumberInAnArray/_1_MissingNumberInAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-HashTables/_1_SimpleHashTable/_1_SimpleHashTable.iml" filepath="$PROJECT_DIR$/5-HashTables/_1_SimpleHashTable/_1_SimpleHashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/6-SearchAlgorithms/_2_BinarySearch/_2_BinarySearch.iml" filepath="$PROJECT_DIR$/6-SearchAlgorithms/_2_BinarySearch/_2_BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-Queues/_2_CircularQueue/_2_CircularQueue.iml" filepath="$PROJECT_DIR$/4-Queues/_2_CircularQueue/_2_CircularQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-HashTable/_2_HashTableChaining/_2_HashTableChaining.iml" filepath="$PROJECT_DIR$/5-HashTable/_2_HashTableChaining/_2_HashTableChaining.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-HashTables/_2_HashtableChaining/_2_HashtableChaining.iml" filepath="$PROJECT_DIR$/5-HashTables/_2_HashtableChaining/_2_HashtableChaining.iml" />
       <module fileurl="file://$PROJECT_DIR$/7-Trees/_2_JDK/_2_JDK.iml" filepath="$PROJECT_DIR$/7-Trees/_2_JDK/_2_JDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Challenges/_2_RemoveEvenIntegerFromArray/_2_RemoveEvenIntegerFromArray.iml" filepath="$PROJECT_DIR$/8-Challenges/_2_RemoveEvenIntegerFromArray/_2_RemoveEvenIntegerFromArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_2_SelectionSort/_2_SelectionSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_2_SelectionSort/_2_SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_2_SingleLinkedList/_2_SingleLinkedList.iml" filepath="$PROJECT_DIR$/2-Lists/_2_SingleLinkedList/_2_SingleLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_3_DoublyLinkedList/_3_DoublyLinkedList.iml" filepath="$PROJECT_DIR$/2-Lists/_3_DoublyLinkedList/_3_DoublyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-HashTables/_3_HashTableJDK/_3_HashTableJDK.iml" filepath="$PROJECT_DIR$/5-HashTables/_3_HashTableJDK/_3_HashTableJDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_3_InsertionSort/_3_InsertionSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_3_InsertionSort/_3_InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-Stacks/_3_LinkedList/_3_LinkedList.iml" filepath="$PROJECT_DIR$/3-Stacks/_3_LinkedList/_3_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Challenges/_3_ReverseAnArray/_3_ReverseAnArray.iml" filepath="$PROJECT_DIR$/8-Challenges/_3_ReverseAnArray/_3_ReverseAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-HashTables/_4_BucketSort/_4_BucketSort.iml" filepath="$PROJECT_DIR$/5-HashTables/_4_BucketSort/_4_BucketSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Challenges/_4_FindMinValueInAnArray/_4_FindMinValueInAnArray.iml" filepath="$PROJECT_DIR$/8-Challenges/_4_FindMinValueInAnArray/_4_FindMinValueInAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Lists/_4_JdkLinkedList/_4_JdkLinkedList.iml" filepath="$PROJECT_DIR$/2-Lists/_4_JdkLinkedList/_4_JdkLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_4_ShellSort/_4_ShellSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_4_ShellSort/_4_ShellSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Challenges/_5_FindSecondMaximumValueInAnArray/_5_FindSecondMaximumValueInAnArray.iml" filepath="$PROJECT_DIR$/8-Challenges/_5_FindSecondMaximumValueInAnArray/_5_FindSecondMaximumValueInAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_5_Recursion/_5_Recursion.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_5_Recursion/_5_Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_6_MergeSort/_6_MergeSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_6_MergeSort/_6_MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Challenges/_6_MoveZeroesToEndOfAnArray/_6_MoveZeroesToEndOfAnArray.iml" filepath="$PROJECT_DIR$/8-Challenges/_6_MoveZeroesToEndOfAnArray/_6_MoveZeroesToEndOfAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_7_QuickSort/_7_QuickSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_7_QuickSort/_7_QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Challenges/_7_ResizeAnArray/_7_ResizeAnArray.iml" filepath="$PROJECT_DIR$/8-Challenges/_7_ResizeAnArray/_7_ResizeAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_8_CountingSort/_8_CountingSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_8_CountingSort/_8_CountingSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-SortAlgorithms/_9_RadixSort/_9_RadixSort.iml" filepath="$PROJECT_DIR$/1-SortAlgorithms/_9_RadixSort/_9_RadixSort.iml" />
     </modules>
